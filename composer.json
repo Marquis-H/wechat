@@ -52,6 +52,7 @@
             "EasyWeChat\\Tests\\": "tests/"
         }
     },
+    "minimum-stability": "dev",
     "scripts": {
         "phpcs": "vendor/bin/php-cs-fixer fix",
         "phpstan": "vendor/bin/phpstan analyse",
