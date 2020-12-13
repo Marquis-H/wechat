@@ -11,7 +11,7 @@ namespace EasyWeChat\MiniProgram\SubscribeMessage;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 
-class ServiceProvider
+class ServiceProvider implements ServiceProviderInterface
 {
     /**
      * {@inheritdoc}.
